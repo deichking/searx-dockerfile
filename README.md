@@ -1,4 +1,4 @@
-## hoellen/searx
+## deichking/searx
 
 ![](https://i.goopics.net/ls.png)
 

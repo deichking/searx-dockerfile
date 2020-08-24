@@ -23,6 +23,7 @@ RUN apk -U upgrade \
  && apk add \
     su-exec \
     python3 \
+    py3-pip \
     libxml2 \
     libxslt \
     openssl \

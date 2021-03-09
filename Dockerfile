@@ -1,4 +1,5 @@
-FROM alpine:3.12
+# FROM alpine:3.12
+FROM alpine:latest
 
 ARG VERSION=0.18.0
 
